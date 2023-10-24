@@ -1,8 +1,8 @@
-# Melanoma Segmentation Challenge Submission - Group-6
+# Melanoma Segmentation Challenge Submission: Group-6
 
 ## Contributors:
 - Dheeraj Varghese
-- Danila R.
+- Danila Rusinkiewicz
 
 ## Overview:
 
