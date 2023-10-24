@@ -60,10 +60,3 @@ sbatch experiments.sh
 Feel free to explore and modify the code as needed. If you encounter any issues or have questions, please reach out to the contributors.
 
 Happy coding!
-
-
-
-```bash
-git clone https://github.com/your-username/melanoma-segmentation-challenge.git
-```
-
